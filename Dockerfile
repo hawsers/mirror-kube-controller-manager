@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.12.8
+FROM k8s.gcr.io/kube-controller-manager:v1.12.9
